@@ -1,4 +1,4 @@
-header{
+.header{
 	display: flex;
 	flex-direction: row-reverse;
 	background-color: #8eec6a;
@@ -18,7 +18,7 @@ header{
 	color: #4e4e4e;
 }
 
-main{
+.main{
 	padding-left: 20%;
 	padding-right: 20%;
 	padding-top: 5%;
@@ -102,7 +102,7 @@ h3{
 	border: none;
 }
 
-footer{
+.footer{
 	display: flex;
     align-items: center;
 	justify-content: space-between;
