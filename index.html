@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+
+<html lang="en">
+   
+<head>
+   <meta charset="UTF-8" />
+   <title>CV_3</title>
+   <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+    <form>
+    <header>
+	    <nav class="menu">
+			<a href="">Contacts</a>
+			<a href="">Summary</a>
+			<a href="">Skills</a>
+			<a href="">Code</a>
+			<a href="">Projects</a>
+			<a href="">Education</a>
+			<a href="">English</a>
+		</nav>
+	</header>
+	
+	<main>
+	    <div class="block_ava">
+		    <div class="ava"></div>
+			<div class="name_main">
+			    <h1>Alex Sokol</h1>
+				<div class="line"></div>
+				<h3>JUNIOR FRONT-END DEVELOPER</h3>
+		    </div>
+		</div>
+		<div class="content">
+		    <div class="content_contacts">
+			    <h3>CONTACTS</h3>
+			    <ul>
+				    <li>Minsk, Belarus</li>
+					<li>Email: <a href="">kavavanra@mail.ru</a></li>
+					<li>Github: <a href="">tomatoo21</a></li>
+					<li>Discord: <a href="">Stress</a></li>
+				</ul>
+			</div>
+			<div class="content_summary">
+			    <h3>SKILLS</h3>
+			    <ul>
+				    <li>Web-development: <a href="">HTML,</a> <a href="">CSS,</a> <a href="">JavaScript</a></li>
+					<li>Version control: <a href="">GIT,</a> <a href="">Github</a></li>
+					<li>Graphics: <a href="">Paint 3D</a></li>
+				</ul>
+			</div>
+			<div class="content_skills">
+			    <h3>COURSES</h3>
+			    <ul>
+				    <li>ballroom dancing  </li>
+					<li>table tennis </li>
+					
+				</ul>
+			</div>
+			<div class="content_courses">
+			    <h3>EDUCATION</h3>
+			    <ul>
+				  <li>Belarusian National Technical University</li>
+				</ul>
+			</div>
+			<div class="content_code">
+			    <h3>SUMMARY</h3>
+				<p>The common seal (lat. Phoca vitulina) is a representative of the family of true seals. The distribution is circumpolar and occurs in all seas adjacent to the Arctic Ocean.
+
+Two subspecies are in the Red Book (the European subspecies and the Steineger or island seal). </p>
+			</div>
+			<div class="content_projects">
+			    <h3>CODE</h3>
+				<p>
+"alert('Привет');
+alert('Мир');"		    
+</p>
+			</div>
+			<div class="content_education">
+			    <h3>PROJECTS</h3>
+				<ul>
+				    <li><a href="">Hcatching tuna</a></li>
+					<li><a href="">Slept</a></li>
+					<li><a href="">swam</a></li>
+					<li><a href="">Drank</a></li>
+				</ul>
+			</div>
+			<div class="content_english">
+			    <h3>ENGLISH</h3>
+				<p>English level A0</p>
+			</div>
+		</div>
+	</main>
+	
+	<footer>
+	    <div class="name_footer">&#169; 2022  alex sokol</div>
+		<div class="logo"><a href="https://rs.school/"></a></div>
+	</footer>
+</form>
+</html>
